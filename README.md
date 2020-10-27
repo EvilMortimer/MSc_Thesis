@@ -1,0 +1,5 @@
+# MSc_Thesis
+Main code for experimental data analysis. Includes code blocks written for various tasks:
+* image processing of the experimental videos
+* data and error analysis, including fits and plots
+* numerical simulations for solving relevant differential equations under non-ideal conditions
